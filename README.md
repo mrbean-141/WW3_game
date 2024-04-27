@@ -14,4 +14,4 @@ Extra notes:
   - Other letters represent cities.
   - Each player starts with $7000.
   - Each player has 7 cities.
-  - Currently this is version only works on Windows.
+  - Currently this version only works on Windows OS.
