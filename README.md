@@ -13,3 +13,4 @@ Extra notes:
   - Red X's represent locations that have been hit.
   - Other letters represent cities.
   - Each player starts with $7000.
+  - Each player has 7 cities.
